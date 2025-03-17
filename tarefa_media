@@ -1,0 +1,16 @@
+var primeiraNota = Number (   prompt("digite a nota")    );
+
+   alert("voce digitou a primeira nota");
+alert(primeiraNota);
+
+var segundaNota = Number ( prompt ("digite a segunda nota") );
+
+alert("voce digitou a segunda nota");
+alert(segundaNota);
+
+var terceiraNota = Number (prompt("digite a terceira nota")) ;
+
+alert("voce digitou a terceira nota");
+alert(terceiraNota);
+
+alert( (primeiraNota + segundaNota + terceiraNota) / 3);
