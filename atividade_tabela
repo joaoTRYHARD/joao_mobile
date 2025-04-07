@@ -1,0 +1,21 @@
+var numero = Number = (prompt ("digite um numero") );
+
+alert("Voce digitou um numero")
+
+var multiplo = (numero / 7 ) 
+
+if (numero % 7 == 0 ) {
+    alert("O numero é multiplo de 7")
+} else{
+    alert("O numero não é multiplo de 7")
+}var numero = Number = (prompt ("digite um numero") );
+
+alert("Voce digitou um numero")
+
+var multiplo = (numero / 7 ) 
+
+if (numero % 7 == 0 ) {
+    alert("O numero é multiplo de 7")
+} else{
+    alert("O numero não é multiplo de 7")
+}
