@@ -1,3 +1,4 @@
+multiplo de 7 
 var numero = Number = (prompt ("digite um numero") );
 
 alert("Voce digitou um numero")
@@ -19,3 +20,14 @@ if (numero % 7 == 0 ) {
 } else{
     alert("O numero não é multiplo de 7")
 }
+
+numero real
+var numero = Number(prompt("digite um numero"));
+alert ("voce digitou um numero")
+
+if(numero > 5){
+    const metade = numero / 2;
+
+    alert(metade)
+}
+
